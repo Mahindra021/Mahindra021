@@ -185,16 +185,25 @@ A collaborative MERN-based university management platform designed to simplify a
 
 <div align="center">
 
-<a href="https://github.com/Mahindra021">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mahindra021&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Mahindra021">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahindra021&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</a>
+<img
+  height="180"
+  src="https://raw.githubusercontent.com/Mahindra021/Mahindra021/main/profile/stats.svg"
+  alt="GitHub Statistics"
+/>
 
-<br/>
+<img
+  height="180"
+  src="https://raw.githubusercontent.com/Mahindra021/Mahindra021/main/profile/top-langs.svg"
+  alt="Top Languages"
+/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Mahindra021&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/><br/>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Mahindra021&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
