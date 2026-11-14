@@ -239,40 +239,24 @@ A full-stack MERN travel platform that simplifies trip planning through personal
 
 <div align="center">
 
-<!-- GitHub Statistics -->
-
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Mahindra021&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B1528&title_color=E6B85C&text_color=E6EAF0&icon_color=D9AD55"
+  src="./profile/stats.svg"
   width="49%"
   alt="GitHub Statistics"
 />
 
-<!-- Most Used Languages -->
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahindra021&layout=compact&langs_count=8&hide_border=true&bg_color=0B1528&title_color=E6B85C&text_color=E6EAF0"
+  src="./profile/top-langs.svg"
   width="49%"
   alt="Most Used Languages"
 />
 
 <br/><br/>
 
-<!-- Contribution Streak -->
-
 <img
   src="https://streak-stats.demolab.com?user=Mahindra021&hide_border=true&background=0B1528&stroke=34435A&ring=E6B85C&fire=D9AD55&currStreakNum=F5F2EA&sideNums=F5F2EA&currStreakLabel=E6B85C&sideLabels=B8C3D5&dates=9CA9BC"
   width="85%"
   alt="GitHub Contribution Streak"
-/>
-
-<br/><br/>
-
-<!-- Contribution Activity -->
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahindra021&bg_color=0B1528&color=E6B85C&line=D9AD55&point=F5F2EA&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Activity"
 />
 
 </div>
