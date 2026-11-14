@@ -75,7 +75,7 @@ Aspiring Software Engineer focused on building scalable applications, solving me
 
 | 🎓 Education | 📊 CGPA | 🧩 DSA Practice |
 |:---:|:---:|:---:|
-| B.Tech CSE | 8.63 / 10 | 1000+ Problems |
+| B.Tech CSE | 8.70 / 10 | 1000+ Problems |
 
 | ⚡ LeetCode | 🏆 Peak Contest Rating | 🎯 Graduation |
 |:---:|:---:|:---:|
@@ -201,61 +201,34 @@ A full-stack MERN travel platform that simplifies trip planning through personal
 
 ---
 
-## 🏆 Achievements & Recognition
-
-### 🥇 Awards & Competition
-
-| Achievement | Recognition |
-|:---|:---|
-| 🥇 **Tech X — September 2026** | First Position — UniHub |
-| 🚀 **Guidewire DEVTrails University Hackathon 2026** | Hackathon Participant |
-| 💡 **Vadodara Hackathon 6.0** | Hackathon Participant |
-
-### 💻 Competitive Programming
-
-| Platform | Achievement |
-|:---|:---|
-| 🧩 **Data Structures & Algorithms** | 1000+ Problems Solved Across Multiple Platforms |
-| ⚡ **LeetCode** | 470+ Problems Solved |
-| 📈 **LeetCode Contest** | 1509 Maximum Rating |
-
-### 📜 Certifications & Training
-
-| Certification | Issuing Organization | Result |
-|:---|:---|:---|
-| 🌐 **Introduction to Internet of Things** | NPTEL — IIT Kharagpur | 🏅 Elite · 78% · Jul–Oct 2026 |
-| 🌐 **Computer Networks and Internet Protocol** | NPTEL — IIT Kharagpur | 🏅 Elite · 66% · Jan–Apr 2025 |
-| 🤖 **Artificial Intelligence Bootcamp** | C-DAC Pune | Successfully Completed |
-
----
-
-<p align="center">
-  <b>Continuous Learning · Problem Solving · Building Real-World Solutions</b>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  src="./profile/stats.svg"
-  width="49%"
-  alt="GitHub Statistics"
-/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="./profile/stats.svg"
+        width="400"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="./profile/top-langs.svg"
+        width="350"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <img
-  src="./profile/top-langs.svg"
-  width="49%"
-  alt="Most Used Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Mahindra021&hide_border=true&background=0B1528&stroke=34435A&ring=E6B85C&fire=D9AD55&currStreakNum=F5F2EA&sideNums=F5F2EA&currStreakLabel=E6B85C&sideLabels=B8C3D5&dates=9CA9BC"
-  width="85%"
+  src="https://streak-stats.demolab.com?user=Mahindra021&hide_border=true&background=0B1528&stroke=34435A&ring=E6B85C&fire=D9AD55&currStreakNum=F5F2EA&sideNums=F5F2EA&currStreakLabel=E6B85C&sideLabels=B8C3D5&dates=9CA9BC&card_width=750"
+  width="750"
   alt="GitHub Contribution Streak"
 />
 
@@ -265,22 +238,25 @@ A full-stack MERN travel platform that simplifies trip planning through personal
 
 ## 🧠 Competitive Programming
 
-I consistently practice algorithmic problems to strengthen my understanding of data structures, algorithms, and efficient problem-solving.
+I regularly solve algorithmic problems to strengthen my understanding of data structures, algorithms, and efficient problem-solving.
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Mahindra021/">
-  <img src="https://leetcard.jacoblin.cool/Mahindra021?theme=dark&font=Baloo&ext=contest" width="65%" alt="LeetCode statistics" />
+  <img
+    src="https://leetcard.jacoblin.cool/Mahindra021?theme=dark&font=Baloo&ext=contest"
+    width="560"
+    alt="Mahindra's LeetCode Statistics"
+  />
 </a>
 
 <br/>
 
 <a href="https://leetcode.com/u/Mahindra021/">
-  <img src="https://img.shields.io/badge/LeetCode-470%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-474%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
-
 <a href="https://codolio.com/profile/mahindra021">
-  <img src="https://img.shields.io/badge/Codolio-Coding%20Profile-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codolio-Coding%20Profile-D9AD55?style=flat-square" />
 </a>
 
 </div>
@@ -291,24 +267,47 @@ I consistently practice algorithmic problems to strengthen my understanding of d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mahindra021/Mahindra021/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<p>
+  <img
+    src="https://raw.githubusercontent.com/Mahindra021/Mahindra021/output/github-snake-dark.svg"
+    width="90%"
+    alt="GitHub Contribution Snake Animation"
+  />
+</p>
+
+<p>
+  <sub>Consistently learning, building, and contributing.</sub>
+</p>
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Recognition
 
-<details>
-<summary><b>View certifications and achievements</b></summary>
+<details open>
+<summary><b>Professional Certifications & Training</b></summary>
 
 <br/>
 
-- Artificial Intelligence Bootcamp — C-DAC Pune, FutureSkills PRIME.
-- NPTEL Certification — Computer Networks.
-- First Position — Tech X, September 2026, UniHub project.
-- Guidewire DEVTrails University Hackathon 2026 — Participant.
-- Vadodara Hackathon 6.0 — Participant.
+| Certification | Organization | Achievement |
+|:---|:---|:---|
+| **Introduction to Internet of Things** | NPTEL — IIT Kharagpur | Elite · 78% |
+| **Computer Networks and Internet Protocol** | NPTEL — IIT Kharagpur | 66% |
+| **Artificial Intelligence Bootcamp** | C-DAC Pune · FutureSkills PRIME | Completed |
+
+</details>
+
+<details>
+<summary><b>🏆 Awards & Hackathon Participation</b></summary>
+
+<br/>
+
+| Event | Recognition |
+|:---|:---|
+| **Tech X — September 2026** | 🥇 First Position — UniHub |
+| **Guidewire DEVTrails University Hackathon 2026** | Participant |
+| **Vadodara Hackathon 6.0** | Participant |
 
 </details>
 
@@ -316,30 +315,33 @@ I consistently practice algorithmic problems to strengthen my understanding of d
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with developers, collaborating on interesting projects, and exploring software engineering opportunities.
+<p>
+  Open to connecting with developers, collaborating on projects, sharing ideas, and exploring software engineering opportunities.
+</p>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/Mahindra021/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mahindra%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2867B2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:mahindrachoudhary48@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-D9AD55?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://github.com/Mahindra021">
-  <img src="https://img.shields.io/badge/GitHub-Mahindra021-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-30363D?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://leetcode.com/u/Mahindra021/">
-  <img src="https://img.shields.io/badge/LeetCode-Mahindra021-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-E6A23C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
-<br/><br/>
+<br/>
 
-### 💜 "Code. Learn. Build. Repeat."
+**"Code. Learn. Build. Repeat."**
 
-⭐ Thanks for visiting my profile. Feel free to explore my work!
+<sub>Driven by curiosity. Focused on building meaningful solutions.</sub>
+
+<br/>
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
