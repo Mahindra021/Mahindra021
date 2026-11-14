@@ -1,35 +1,38 @@
-<!--
-  GitHub Profile README
-  Repository: Mahindra021/Mahindra021
-  Add the banner at: assets/profile-banner.svg
-  Configure the contribution snake workflow before publishing.
--->
 
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Mahindra Choudhary - Full Stack Developer" />
+<img
+  src="./assets/profile-banner.png"
+  width="100%"
+  alt="Mahindra Choudhary - Full Stack Developer"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;C%2B%2B+%26+Data+Structures+Enthusiast;1000%2B+DSA+Problems+Solved;Exploring+AI%2FML+%26+Data+Science" alt="Typing introduction" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=D9AD55&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;C%2B%2B+%26+Data+Structures+Enthusiast;1000%2B+DSA+Problems+Solved;Exploring+AI%2FML+%26+Data+Science"
+  alt="Typing introduction"
+/>
+
+<br/>
 
 <p>
   <a href="https://github.com/Mahindra021">
-    <img src="https://komarev.com/ghpvc/?username=Mahindra021&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Mahindra021&style=for-the-badge&color=D9AD55&label=PROFILE+VIEWS" alt="Profile views"/>
   </a>
   <a href="https://github.com/Mahindra021?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mahindra021?style=for-the-badge&color=2563EB&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Mahindra021?style=for-the-badge&color=243B60&label=FOLLOWERS" alt="Followers"/>
   </a>
 </p>
 
 <a href="https://www.linkedin.com/in/Mahindra021/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mahindrachoudhary48@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D9AD55?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/Mahindra021/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
@@ -38,19 +41,31 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Mahindra Choudhary**, a Computer Science and Engineering undergraduate at **Parul University**, passionate about software engineering, full-stack development, and algorithmic problem-solving.
+Hi! I'm **Mahindra Choudhary**, a Computer Science and Engineering undergraduate at **Parul University**, passionate about building practical software solutions and continuously improving my problem-solving skills.
 
-I enjoy designing and developing practical applications, building secure backend systems, and solving challenging DSA problems using C++.
+I'm focused on **Full-Stack Development with the MERN stack** and enjoy turning ideas into functional, user-friendly web applications. I also practice **Data Structures and Algorithms using C++**, with an interest in writing efficient and maintainable code.
 
-I'm also expanding my knowledge of Data Science and AI/ML through Python, data analysis, and visualization.
+Beyond web development, I'm exploring **Artificial Intelligence, Machine Learning, and Data Science**, while strengthening my foundation in Python, data analysis, and visualization.
 
-- 🔭 Currently building and improving full-stack applications.
-- 🌱 Exploring AI/ML, Data Science, and modern web technologies.
-- 💻 Practicing Data Structures & Algorithms using C++.
-- ⚙️ Interested in backend architecture, REST APIs, authentication, and database design.
-- 🎯 Aspiring Software Engineer.
-- 📍 Surat, Gujarat, India.
-- 📫 **Email:** mahindrachoudhary48@gmail.com
+### 💡 What I'm Focused On
+
+- 🚀 Building full-stack applications using React, Node.js, Express.js, and MongoDB.
+- 🧠 Strengthening problem-solving skills through DSA and competitive programming in C++.
+- ⚙️ Learning backend architecture, RESTful APIs, authentication, and database design.
+- 🤖 Exploring AI/ML and Data Science through Python and practical learning.
+- 🛠️ Developing real-world projects and continuously improving my engineering skills.
+
+### 🎯 Career Goal
+
+Aspiring Software Engineer focused on building scalable applications, solving meaningful problems, and growing as a developer.
+
+---
+
+<p>
+  <strong>📍 Location:</strong> Surat, Gujarat, India
+  <br/>
+  <strong>📫 Email:</strong> <a href="mailto:mahindrachoudhary48@gmail.com">mahindrachoudhary48@gmail.com</a>
+</p>
 
 ---
 
@@ -60,11 +75,11 @@ I'm also expanding my knowledge of Data Science and AI/ML through Python, data a
 
 | 🎓 Education | 📊 CGPA | 🧩 DSA Practice |
 |:---:|:---:|:---:|
-| B.Tech CSE | 8.70 / 10 | 1000+ Problems |
+| B.Tech CSE | 8.63 / 10 | 1000+ Problems |
 
-| ⚡ LeetCode | 🏆 Contest Rating | 🎯 Graduation |
+| ⚡ LeetCode | 🏆 Peak Contest Rating | 🎯 Graduation |
 |:---:|:---:|:---:|
-| 470+ Problems | 1509 Maximum | May 2027 |
+| 470+ Problems Solved | 1509 | May 2027 |
 
 </div>
 
@@ -72,90 +87,115 @@ I'm also expanding my knowledge of Data Science and AI/ML through Python, data a
 
 ## 🛠️ Technical Arsenal
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="Programming languages" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" alt="Frontend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" alt="HTML, CSS, React, Next.js, Redux, Tailwind CSS" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and databases" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Node.js, Express.js, MongoDB, Firebase" />
 </p>
 
-### Data Science & AI/ML
-
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2C3E50?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
 </p>
 
-### Developer Tools & Platforms
+### ☁️ Cloud & Integrations
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda,vercel" alt="Development tools" />
-  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudinary" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API" />
 </p>
 
-### Core Computer Science
+### 📊 Data Science & AI/ML
 
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering`
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab" />
+</p>
+
+### 🔧 Developer Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda,vercel,render" alt="Git, GitHub, VS Code, Postman, Anaconda, Vercel, Render" />
+</p>
+
+### 🧠 Core Computer Science
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering`
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✈️ Dastak — AI-Powered Travel Planning & Expense Analytics
+### 🎓 [UniHub](https://github.com/Mahindra021/UniHub) — AI-Powered University Management System
 
-A full-stack travel platform that combines AI-generated itineraries with expense management and travel analytics.
+A collaborative, full-stack MERN university management platform designed to centralize academic, administrative, and campus operations through role-based dashboards and intelligent assistance.
 
-**What I built:**
-- Personalized day-wise travel itineraries using Google Gemini API.
-- Trip creation, editing, management, and sharing.
-- Expense tracking and category-wise analytics.
-- Budget monitoring and expense visualization.
-- Cloudinary image storage and PDF report export.
+**Key Features & Contributions:**
+- 👥 Collaborated on a platform featuring four role-based dashboards for Admin, Students, Teaching Staff, and Non-Teaching Staff.
+- 🔐 Implemented backend authentication workflows using JWT, RBAC, and server-side authorization across academic and administrative modules.
+- 📚 Contributed to academic workflows covering attendance, examinations, assignments, results, and student records.
+- 📅 Supports algorithmic timetable generation, scheduling conflict detection, approval workflows, and timetable publishing.
+- 🏫 Integrates campus facility management, hostel administration, transportation, library, finance, and placement management.
+- 🗺️ Includes interactive campus navigation with GPS-based geofencing and OSRM-powered walking directions.
+- 🤖 Contributed to a role-aware AI assistant with server-side authorization, context-aware university services, and human-confirmed actions.
 
-**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Gemini API · Cloudinary
+**Tech Stack:** React.js · Vite · Tailwind CSS · React Router · Node.js · Express.js · MongoDB · Mongoose · JWT · Cloudinary · OpenStreetMap · OSRM
 
-### 🏙️ FixFlow — Civic Issue Reporting Platform
+---
 
-A civic-tech application designed to connect citizens and municipal authorities through a centralized issue-reporting and resolution workflow.
+### 🏙️ [FixFlow](https://github.com/Mahindra021/FixFlow) — AI-Powered Civic Issue Reporting & Municipal Management
 
-**What I built:**
-- Civic issue reporting and tracking workflows.
-- Secure REST APIs with JWT authentication.
-- Role-based access control and protected middleware.
-- MongoDB schema design.
-- Issue assignment, status management, and resolution workflows.
+A full-stack GovTech platform designed to connect citizens with municipal authorities through a centralized civic complaint reporting, tracking, prioritization, and resolution system.
 
-**Tech Stack:** React.js · Node.js · Express.js · MongoDB · JWT · RBAC
+**Key Features & Contributions:**
+- 📝 Developed civic issue reporting with category-based classification, GPS geolocation, interactive maps, and photographic evidence uploads.
+- 🔐 Built secure RESTful APIs using Node.js and Express.js with JWT authentication, role-based access control (RBAC), and protected middleware.
+- 🏛️ Implemented dedicated dashboards and workflows for Citizens, Municipal Staff, and Super Admins.
+- ⚡ Designed a complaint lifecycle management system covering assignment, investigation, progress tracking, resolution, and reopening.
+- 🤖 Integrated AI-assisted complaint description enhancement and role-aware AI assistants for civic guidance and municipal operations.
+- 🚨 Implemented a P0–P3 complaint priority engine with SLA deadlines, overdue monitoring, and authorized priority overrides.
+- 🗺️ Developed geospatial complaint visualization and municipal ward-based operational tracking.
+- 🪙 Implemented FixCoins rewards, resolution evidence verification, and citizen feedback workflows.
 
-### 🎓 UniHub — AI-Powered University Management System
+**Tech Stack:** React.js · Vite · Node.js · Express.js · MongoDB · Mongoose · JWT · Leaflet · Cloudinary · Recharts
 
-A collaborative MERN-based university management platform designed to simplify academic and administrative operations.
+---
 
-**What I contributed:**
-- Four role-based dashboards for Admin, Students, Teaching Staff, and Non-Teaching Staff.
-- JWT authentication and server-side authorization.
-- Role-aware AI assistant for context-aware university services.
-- Attendance, examinations, fees, library, and hostel management modules.
+### ✈️ [Dastak](https://github.com/Mahindra021/Dastak) — AI-Powered Travel Planning & Expense Analytics
 
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js · JWT · RBAC
+A full-stack MERN travel platform that simplifies trip planning through personalized AI-generated itineraries, intelligent budget management, and interactive expense analytics.
+
+**Key Features & Contributions:**
+- 🤖 Integrated **Google Gemini 2.5 Flash API** to generate personalized, day-wise travel itineraries based on destinations, dates, budgets, interests, and travel preferences.
+- 🗺️ Developed complete trip management with creation, editing, deletion, destination discovery, and itinerary customization.
+- 💰 Implemented categorized expense tracking with real-time budget monitoring, spending summaries, and remaining balance calculations.
+- 📊 Built interactive financial analytics with category-wise spending charts, budget comparisons, and multi-trip insights.
+- 🔗 Implemented token-based public trip sharing with zero-login access and QR code generation.
+- 📄 Developed a custom PDF export engine using jsPDF with itinerary details, expense summaries, and shareable QR codes.
+- ☁️ Integrated Cloudinary for trip cover image storage and management.
+
+**Tech Stack:** React.js · Vite · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MongoDB · Gemini 2.5 Flash · Cloudinary · Recharts · jsPDF
+
+---
 
 <p align="center">
   <a href="https://github.com/Mahindra021?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore-All%20My%20Repositories-D99A24?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
   </a>
 </p>
 
@@ -163,21 +203,35 @@ A collaborative MERN-based university management platform designed to simplify a
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+### 🥇 Awards & Competition
 
 | Achievement | Recognition |
 |:---|:---|
-| 🥇 Tech X — September 2026 | First Position for UniHub |
-| 💻 DSA | 1000+ Problems Solved |
-| ⚡ LeetCode | 470+ Problems Solved |
-| 📈 LeetCode Contest | 1509 Maximum Rating |
-| 🤖 C-DAC Pune | Artificial Intelligence Bootcamp |
-| 🌐 NPTEL | Computer Networks Certification |
+| 🥇 **Tech X — September 2026** | First Position — UniHub |
+| 🚀 **Guidewire DEVTrails University Hackathon 2026** | Hackathon Participant |
+| 💡 **Vadodara Hackathon 6.0** | Hackathon Participant |
 
-</div>
+### 💻 Competitive Programming
 
-- Participated in Guidewire DEVTrails University Hackathon 2026.
-- Participated in Vadodara Hackathon 6.0.
+| Platform | Achievement |
+|:---|:---|
+| 🧩 **Data Structures & Algorithms** | 1000+ Problems Solved Across Multiple Platforms |
+| ⚡ **LeetCode** | 470+ Problems Solved |
+| 📈 **LeetCode Contest** | 1509 Maximum Rating |
+
+### 📜 Certifications & Training
+
+| Certification | Issuing Organization | Result |
+|:---|:---|:---|
+| 🌐 **Introduction to Internet of Things** | NPTEL — IIT Kharagpur | 🏅 Elite · 78% · Jul–Oct 2026 |
+| 🌐 **Computer Networks and Internet Protocol** | NPTEL — IIT Kharagpur | 🏅 Elite · 66% · Jan–Apr 2025 |
+| 🤖 **Artificial Intelligence Bootcamp** | C-DAC Pune | Successfully Completed |
+
+---
+
+<p align="center">
+  <b>Continuous Learning · Problem Solving · Building Real-World Solutions</b>
+</p>
 
 ---
 
@@ -185,24 +239,40 @@ A collaborative MERN-based university management platform designed to simplify a
 
 <div align="center">
 
+<!-- GitHub Statistics -->
+
 <img
-  height="180"
-  src="https://raw.githubusercontent.com/Mahindra021/Mahindra021/main/profile/stats.svg"
+  src="https://github-readme-stats.vercel.app/api?username=Mahindra021&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B1528&title_color=E6B85C&text_color=E6EAF0&icon_color=D9AD55"
+  width="49%"
   alt="GitHub Statistics"
 />
 
+<!-- Most Used Languages -->
+
 <img
-  height="180"
-  src="https://raw.githubusercontent.com/Mahindra021/Mahindra021/main/profile/top-langs.svg"
-  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahindra021&layout=compact&langs_count=8&hide_border=true&bg_color=0B1528&title_color=E6B85C&text_color=E6EAF0"
+  width="49%"
+  alt="Most Used Languages"
 />
 
 <br/><br/>
 
+<!-- Contribution Streak -->
+
 <img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Mahindra021&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=Mahindra021&hide_border=true&background=0B1528&stroke=34435A&ring=E6B85C&fire=D9AD55&currStreakNum=F5F2EA&sideNums=F5F2EA&currStreakLabel=E6B85C&sideLabels=B8C3D5&dates=9CA9BC"
+  width="85%"
   alt="GitHub Contribution Streak"
+/>
+
+<br/><br/>
+
+<!-- Contribution Activity -->
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahindra021&bg_color=0B1528&color=E6B85C&line=D9AD55&point=F5F2EA&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Activity"
 />
 
 </div>
